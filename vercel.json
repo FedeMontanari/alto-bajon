@@ -3,5 +3,5 @@
     { "source": "/menu", "destination": "/menu.html" },
     { "source": "/index", "destination": "/index.html" }
   ],
-  "cleanUrls": "true"
+  "cleanUrls": true
 }
